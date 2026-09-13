@@ -25,10 +25,14 @@ header-includes:
 ---
 
 **Live, executable notebook:** the full analysis below can be opened and
-re-run directly, no local setup required, at
-<https://colab.research.google.com/github/edwardtsatsu/dscd612-pattern-recognition-project1/blob/main/notebooks/project1_bayesian_vs_knn.ipynb>.
-Source code and data:
-<https://github.com/edwardtsatsu/dscd612-pattern-recognition-project1>.
+re-run directly, no local setup required: **[click here to open in Google
+Colab](https://colab.research.google.com/github/edwardtsatsu/dscd612-pattern-recognition-project1/blob/main/notebooks/project1_bayesian_vs_knn.ipynb)**.
+If that does not open for you, copy this address into a browser:
+<https://colab.research.google.com/github/edwardtsatsu/dscd612-pattern-recognition-project1/blob/main/notebooks/project1_bayesian_vs_knn.ipynb>
+
+**Source code and data:** **[click here for the GitHub
+repository](https://github.com/edwardtsatsu/dscd612-pattern-recognition-project1)**.
+Full address: <https://github.com/edwardtsatsu/dscd612-pattern-recognition-project1>
 
 ## 1. Problem Formulation and Dataset Description
 
