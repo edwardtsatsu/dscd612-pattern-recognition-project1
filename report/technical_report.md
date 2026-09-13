@@ -8,6 +8,10 @@ author:
   - "MPhil/MSc Data Science"
   - "University of Ghana, Legon"
 date: "September 2026"
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
 header-includes:
   - |
     \usepackage{titling}
@@ -21,9 +25,10 @@ header-includes:
 ---
 
 **Live, executable notebook:** the full analysis below can be opened and
-re-run directly, no local setup required:
-[Open in Google Colab](https://colab.research.google.com/github/edwardtsatsu/dscd612-pattern-recognition-project1/blob/main/notebooks/project1_bayesian_vs_knn.ipynb).
-Source code and data: [GitHub repository](https://github.com/edwardtsatsu/dscd612-pattern-recognition-project1).
+re-run directly, no local setup required, at
+<https://colab.research.google.com/github/edwardtsatsu/dscd612-pattern-recognition-project1/blob/main/notebooks/project1_bayesian_vs_knn.ipynb>.
+Source code and data:
+<https://github.com/edwardtsatsu/dscd612-pattern-recognition-project1>.
 
 ## 1. Problem Formulation and Dataset Description
 
