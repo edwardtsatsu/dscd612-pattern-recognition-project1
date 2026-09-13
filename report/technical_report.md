@@ -8,6 +8,7 @@ author:
   - "MPhil/MSc Data Science"
   - "University of Ghana, Legon"
 date: "September 2026"
+geometry: margin=1in
 colorlinks: true
 linkcolor: blue
 urlcolor: blue
