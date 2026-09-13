@@ -1,13 +1,4 @@
 ---
-title: "COMPARATIVE STUDY OF BAYESIAN AND NON-PARAMETRIC CLASSIFICATION"
-author:
-  - "SUBMITTED BY"
-  - "Akorlie Edward Tsatsu (22424530)"
-  - "PROJECT 1"
-  - "DSCD612: Pattern Recognition (3 Credits)"
-  - "MPhil/MSc Data Science"
-  - "University of Ghana, Legon"
-date: "September 2026"
 geometry: margin=1in
 colorlinks: true
 linkcolor: blue
@@ -15,15 +6,42 @@ urlcolor: blue
 citecolor: blue
 header-includes:
   - |
-    \usepackage{titling}
     \usepackage{graphicx}
-    \usepackage{etoolbox}
-    \renewcommand{\and}{\\}
-    \pretitle{\begin{center}\bfseries\includegraphics[width=1.4in]{report/assets/ug_crest.png}\\[1.5em]}
-    \posttitle{\end{center}}
-    \postdate{\end{center}\thispagestyle{empty}\newpage}
-    \apptocmd{\tableofcontents}{\newpage}{}{}
 ---
+
+```{=latex}
+\thispagestyle{empty}
+\begin{center}
+```
+
+![](report/assets/ug_crest.png){width=1.4in}
+
+**COMPARATIVE STUDY OF BAYESIAN AND NON-PARAMETRIC CLASSIFICATION**
+
+\bigskip
+
+SUBMITTED BY
+
+Akorlie Edward Tsatsu (22424530)
+
+\bigskip
+
+PROJECT 1\
+DSCD612: Pattern Recognition (3 Credits)\
+MPhil/MSc Data Science
+
+\bigskip
+
+University of Ghana, Legon
+
+September 2026
+
+```{=latex}
+\end{center}
+\newpage
+\tableofcontents
+\newpage
+```
 
 **Live, executable notebook:** the full analysis below can be opened and
 re-run directly, no local setup required: **[click here to open in Google
