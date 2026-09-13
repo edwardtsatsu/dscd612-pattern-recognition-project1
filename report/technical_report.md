@@ -46,7 +46,7 @@ set and evaluated on held-out data.
 
 The dataset used is the **UCI Dry Bean Dataset** (Koklu & Ozkan, 2020), obtained
 directly from the UCI Machine Learning Repository
-(`https://archive.ics.uci.edu/dataset/602/dry+bean+dataset`). It consists of
+(<https://archive.ics.uci.edu/dataset/602/dry+bean+dataset>). It consists of
 high-resolution images of 13,611 dry bean grains belonging to seven registered
 Turkish bean cultivars, from which 16 geometric/morphological features
 (area, perimeter, axis lengths, shape factors, etc.) were extracted using a
@@ -617,7 +617,7 @@ dominate when their distributional assumption holds and lose their advantage
 - Dua, D. and Graff, C. (2019). UCI Machine Learning Repository, Dry Bean
   Dataset. Irvine, CA: University of California, School of Information and
   Computer Science.
-  `https://archive.ics.uci.edu/dataset/602/dry+bean+dataset`
+  <https://archive.ics.uci.edu/dataset/602/dry+bean+dataset>
 - Duda, R.O., Hart, P.E., and Stork, D.G. (2001). *Pattern Classification*
   (2nd ed.). Wiley. (Bayes decision theory, Gaussian discriminant analysis,
   and k-NN, as taught in DSCD612.)
