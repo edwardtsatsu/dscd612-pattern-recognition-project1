@@ -1,9 +1,29 @@
-# Comparative Study of Bayesian and Non-Parametric Classification
-
-**DSCD612: Pattern Recognition, Project 1**
-**University of Ghana, MPhil/MSc Data Science**
-
 ---
+title: "COMPARATIVE STUDY OF BAYESIAN AND NON-PARAMETRIC CLASSIFICATION"
+author:
+  - "SUBMITTED BY"
+  - "Akorlie Edward Tsatsu (22424530)"
+  - "PROJECT 1"
+  - "DSCD612: Pattern Recognition (3 Credits)"
+  - "MPhil/MSc Data Science"
+  - "University of Ghana, Legon"
+date: "September 2026"
+header-includes:
+  - |
+    \usepackage{titling}
+    \usepackage{graphicx}
+    \usepackage{etoolbox}
+    \renewcommand{\and}{\\}
+    \pretitle{\begin{center}\bfseries\includegraphics[width=1.4in]{report/assets/ug_crest.png}\\[1.5em]}
+    \posttitle{\end{center}}
+    \postdate{\end{center}\thispagestyle{empty}\newpage}
+    \apptocmd{\tableofcontents}{\newpage}{}{}
+---
+
+**Live, executable notebook:** the full analysis below can be opened and
+re-run directly, no local setup required:
+[Open in Google Colab](https://colab.research.google.com/github/edwardtsatsu/dscd612-pattern-recognition-project1/blob/main/notebooks/project1_bayesian_vs_knn.ipynb).
+Source code and data: [GitHub repository](https://github.com/edwardtsatsu/dscd612-pattern-recognition-project1).
 
 ## 1. Problem Formulation and Dataset Description
 
